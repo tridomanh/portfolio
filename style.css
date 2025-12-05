@@ -1,0 +1,17 @@
+/* Optional Light Customization */
+body {
+    scroll-behavior: smooth;
+}
+
+header h1 {
+    letter-spacing: 1px;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    transition: 0.3s;
+}
+
+.card-title {
+    font-weight: 600;
+}
